@@ -1,0 +1,15 @@
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/bin/Debug/netcoreapp3.1/OOBasicApp.deps.json
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/bin/Debug/netcoreapp3.1/OOBasicApp.runtimeconfig.json
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/bin/Debug/netcoreapp3.1/OOBasicApp.runtimeconfig.dev.json
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/bin/Debug/netcoreapp3.1/OOBasicApp.dll
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/bin/Debug/netcoreapp3.1/OOBasicApp.pdb
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/bin/Debug/netcoreapp3.1/OOBasicLibrary.dll
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/bin/Debug/netcoreapp3.1/OOBasicLibrary.pdb
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/obj/Debug/netcoreapp3.1/OOBasicApp.csprojAssemblyReference.cache
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/obj/Debug/netcoreapp3.1/OOBasicApp.csproj.CoreCompileInputs.cache
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/obj/Debug/netcoreapp3.1/OOBasicApp.AssemblyInfoInputs.cache
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/obj/Debug/netcoreapp3.1/OOBasicApp.AssemblyInfo.cs
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/obj/Debug/netcoreapp3.1/OOBasicApp.csproj.CopyComplete
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/obj/Debug/netcoreapp3.1/OOBasicApp.dll
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/obj/Debug/netcoreapp3.1/OOBasicApp.pdb
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/obj/Debug/netcoreapp3.1/OOBasicApp.genruntimeconfig.cache

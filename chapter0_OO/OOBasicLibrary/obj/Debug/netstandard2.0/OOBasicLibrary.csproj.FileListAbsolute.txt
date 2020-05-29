@@ -1,0 +1,9 @@
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/bin/Debug/netstandard2.0/OOBasicLibrary.deps.json
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/bin/Debug/netstandard2.0/OOBasicLibrary.dll
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/bin/Debug/netstandard2.0/OOBasicLibrary.pdb
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/obj/Debug/netstandard2.0/OOBasicLibrary.csprojAssemblyReference.cache
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/obj/Debug/netstandard2.0/OOBasicLibrary.csproj.CoreCompileInputs.cache
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/obj/Debug/netstandard2.0/OOBasicLibrary.AssemblyInfoInputs.cache
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/obj/Debug/netstandard2.0/OOBasicLibrary.AssemblyInfo.cs
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/obj/Debug/netstandard2.0/OOBasicLibrary.dll
+/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/obj/Debug/netstandard2.0/OOBasicLibrary.pdb

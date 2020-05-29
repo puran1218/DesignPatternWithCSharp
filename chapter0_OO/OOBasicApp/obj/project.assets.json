@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOBasicLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/OOBasicLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OOBasicLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOBasicLibrary/1.0.0": {
+      "type": "project",
+      "path": "../OOBasicLibrary/OOBasicLibrary.csproj",
+      "msbuildProject": "../OOBasicLibrary/OOBasicLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "OOBasicLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/xuewen/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/OOBasicApp.csproj",
+      "projectName": "OOBasicApp",
+      "projectPath": "/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/OOBasicApp.csproj",
+      "packagesPath": "/Users/xuewen/.nuget/packages/",
+      "outputPath": "/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/xuewen/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/OOBasicLibrary.csproj": {
+              "projectPath": "/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/OOBasicLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

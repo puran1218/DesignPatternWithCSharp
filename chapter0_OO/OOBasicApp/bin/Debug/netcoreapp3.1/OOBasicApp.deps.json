@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOBasicApp/1.0.0": {
+        "dependencies": {
+          "OOBasicLibrary": "1.0.0"
+        },
+        "runtime": {
+          "OOBasicApp.dll": {}
+        }
+      },
+      "OOBasicLibrary/1.0.0": {
+        "runtime": {
+          "OOBasicLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOBasicApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOBasicLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

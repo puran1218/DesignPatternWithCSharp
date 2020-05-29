@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xv0HSSxSTjxvfZkC9Qu5w7mXv4Clp/+9ThO95zUdHBP6P0K7195K/43QtiP9VS4zSEt4ArN1mBRwSnwcFhP+VQ==",
+  "success": true,
+  "projectFilePath": "/Users/xuewen/Documents/Study/Tech/Coding/dotNETCore/DesignPattern/Chapter0/chapter0_OO/OOBasicLibrary/OOBasicLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/xuewen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/xuewen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
