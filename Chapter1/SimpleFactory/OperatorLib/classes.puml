@@ -1,0 +1,27 @@
+@startuml
+Operator <|-- OperationAdd : 继承关系
+Operator <|-- OperationSub : 继承关系
+Operator <|-- OperationMul : 继承关系
+Operator <|-- OperationDiv : 继承关系
+Operator <.. OperationFactory : 创建
+class Operator {
+    {field} +firstNumber : double
+    {field} + secondNumber : double
+    {method} +getResult() : double
+}
+class OperationAdd {
+    {method} +getResult() : double
+}
+class OperationSub {
+    {method} +getResult() : double
+}
+class OperationMul {
+    {method} +getResult() : double
+}
+class OperationDiv {
+    {method} +getResult() : double
+}
+class OperationFactory {
+    {method} +createOperator() : Operator
+}
+@enduml
