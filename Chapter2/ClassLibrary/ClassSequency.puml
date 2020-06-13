@@ -1,0 +1,43 @@
+@startuml
+
+activate main
+
+main --> Context : 1. <<create>>
+activate Context
+deactivate Context
+
+main --> ConcreteStrategyA : 2. <<create>>
+activate ConcreteStrategyA
+deactivate ConcreteStrategyA
+
+main -> Context : 3. setStrategy(strategyA)
+activate Context
+deactivate Context
+
+main -> Context : 4. algorithm()
+activate Context
+Context -> ConcreteStrategyA : 5. algorithm()
+activate ConcreteStrategyA
+deactivate ConcreteStrategyA
+deactivate Context
+
+main --> ConcreteStrategyB : 6. <<create>>
+activate ConcreteStrategyB
+deactivate ConcreteStrategyB
+
+main -> Context : 7. setStrategy(strategyB)
+activate Context
+deactivate Context
+
+main -> Context : 8. algorithm()
+activate Context
+Context -> ConcreteStrategyB : 9. algorithm()
+activate ConcreteStrategyB
+deactivate ConcreteStrategyB
+deactivate Context
+
+deactivate main
+
+...  ...
+
+@enduml

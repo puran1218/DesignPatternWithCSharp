@@ -1,0 +1,28 @@
+@startuml
+abstract class CashSuper{
+    {abstract} +double acceptCash()
+}
+
+CashNormal : +double acceptCash()
+class CashRebate{
+    -double moneyRebate
+    +double acceptCash()
+} 
+class CashReturn{
+    -double moneyCondition
+    -double moneyReturn
+    +double acceptCash()
+}
+
+class CashContext{
+    CashSuper cashsuper
+    +double getResult()
+    +CashContext()
+}
+
+CashSuper <|-- CashNormal : 继承关系
+CashSuper <|-- CashRebate : 继承关系
+CashSuper <|-- CashReturn : 继承关系
+CashSuper <.. CashContext : 创建
+
+@enduml

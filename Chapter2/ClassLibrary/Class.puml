@@ -1,0 +1,19 @@
+@startuml
+abstract class Strategy{
+    {abstract} +void algorithm()
+}
+
+class ConcreteStrategyA{
+    +void algorithm()
+}
+ConcreteStrategyB : +void algorithm()
+
+class Context{
+    +void setStrategy()
+}
+
+Strategy <|-- ConcreteStrategyA
+Strategy <|-- ConcreteStrategyB
+Strategy o-- Context
+
+@enduml
